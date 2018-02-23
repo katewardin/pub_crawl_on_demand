@@ -4,9 +4,8 @@ A self-guided pub crawl that provides groups with interactive games, scavenger h
 
 # MVP 1
 * Account creation
-* 5 Minneapolis locations 
+* 5 Downtown walkable Minneapolis locations 
   * 2 activities per location
-  * 1 prize per location
 * Single team
-* Score tracking
+
 
